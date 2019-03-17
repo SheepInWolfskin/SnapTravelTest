@@ -1,0 +1,4 @@
+Toronto,1
+North York,2
+Waterloo,8
+Kitchener,10
